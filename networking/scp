@@ -1,0 +1,15 @@
+Secure Copy
+
+Copy file from a remote host to local host:
+scp username@target:someFile localLocation
+
+Copy file from local host to a remote host:
+scp someFile username@target:someLocation
+
+Copy file from remote how to another remote host:
+scp usernam@targetA:someFile username@targetB:someFile
+
+You can pass -r to recursively copy folders and files
+You can pass -C to enable compression
+You can pass -P to specify a port to connect to on the remote host
+

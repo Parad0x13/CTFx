@@ -1,0 +1,3 @@
+Show all ip connections (like ifconfig)
+ip addr show
+

@@ -1,0 +1,5 @@
+wget will pull a file you request of it:
+wget [protocol_http://_https://_etc...][targetIP]:[port]/[extension_if_desired]
+
+You can pass --no-check-certificate if you don't care about incorrect certificates and just want the file anyways
+

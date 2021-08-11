@@ -1,0 +1,6 @@
+Scan a host for port information:
+nmap -sT -p- -A -vvv -oA nmap [targetIP]
+
+Scan for all connected IPs on network:
+nmap -sP [e.g. 192.168.56.0/24]
+

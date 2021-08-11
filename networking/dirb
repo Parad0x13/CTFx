@@ -1,0 +1,5 @@
+Directory Buster (dirb) is a neat tool that allows you to scan the directories of a URL
+It can find some files/folders that are there that you wouldn't otherwise know about
+
+dirb [targetIP_or_URL]
+

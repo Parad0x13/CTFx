@@ -1,0 +1,6 @@
+hosts file is located at /etc/hosts
+
+Edit this file to add targets for ease of access e.g.:
+192.168.56.3	target
+This will allow you to reference that IP via the alias 'target'
+
