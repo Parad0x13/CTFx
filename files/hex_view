@@ -1,0 +1,3 @@
+hexdump -C file
+binwalk -W file
+
