@@ -3,3 +3,7 @@ It can find some files/folders that are there that you wouldn't otherwise know a
 
 dirb [targetIP_or_URL]
 
+You can have it scan all listable subdirectories with -w
+You can also have it save to disk in a readable format with -o
+dirb http://target -w -o dirb_out
+

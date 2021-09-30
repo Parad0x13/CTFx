@@ -1,0 +1,11 @@
+steghide
+exiftool
+
+For entropy view
+binwalk -F [-J tosavefile] somefile
+
+foremost
+
+stegsolve.jar
+https://github.com/zardus/ctf-tools/blob/master/stegsolve/install
+

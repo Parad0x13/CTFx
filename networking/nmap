@@ -4,3 +4,7 @@ nmap -sT -p- -A -vvv -oA nmap [targetIP]
 Scan for all connected IPs on network:
 nmap -sP [e.g. 192.168.56.0/24]
 
+Scan from John Hammond
+nmap -sC -sV -oN nmap/initial [IP]
+This however seems to have a custom initialization file of his
+Of which I do not have
